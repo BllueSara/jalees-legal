@@ -6,7 +6,7 @@
 
 ## أولاً: النسخة العربية (Arabic Version)
 
-في **جليس**، نؤمن أن خصوصية القارئ مقدسة كقدسية الحبر على الورق. تهدف هذه السياسة إلى توضيح كيفية تعاملنا مع بياناتكِ بكل شفافية وأمان.
+في **جليس**، نؤمن أن خصوصية القارئ مقدسة كقدسية الحبر على الورق. تهدف هذه السياسة إلى توضيح كيفية تعاملنا مع بياناتكِ بكل شفافية وأمان وفق معايير متجر تطبيقات أبل.
 
 ### ١. البيانات التي نجمعها
 * **معلومات الحساب:** نجمع بريدكِ الإلكتروني عند التسجيل عبر خدماتنا (المدعومة بواسطة **Supabase**) لضمان مزامنة مكتبتكِ واقتباساتكِ عبر أجهزتكِ المختلفة.
@@ -21,9 +21,9 @@
 * تتم كافة عمليات الشراء والاشتراكات بأمان عبر نظام **Apple In-App Purchases** وخدمة **RevenueCat**.
 * نحن لا نطلع على بيانات بطاقتكِ الائتمانية ولا نقوم بتخزينها في قواعد بياناتنا.
 
-### ٤. أمن البيانات وحقوق المستخدم
-* نلتزم بحماية بياناتكِ باستخدام أفضل المعايير التقنية، ولا نقوم ببيع أو مشاركة بياناتكِ الشخصية مع أي جهات خارجية.
-* لكِ الحق الكامل في حذف حسابكِ وكافة محتوياته نهائياً من خوادمنا في أي وقت عبر إعدادات التطبيق.
+### ٤. حقوقكِ وإدارة البيانات
+* لكِ الحق الكامل في الوصول لبياناتكِ أو تعديلها في أي وقت.
+* **حذف الحساب:** نظراً لعدم توفر ميزة الحذف التلقائي داخل التطبيق حالياً، يمكنكِ طلب حذف حسابكِ وكافة محتوياته نهائياً من خوادمنا عبر مراسلتنا على البريد الإلكتروني: **jaleesreader@gmail.com**.
 
 ---
 
@@ -45,8 +45,8 @@ At **Jalees**, we value your privacy as much as you value your favorite books. T
 * We do not have access to, nor do we store, your credit card information.
 
 ### 4. Data Security and User Rights
-* We are committed to protecting your data. We do not sell or share your personal information with third parties.
-* You have the full right to access, modify, or delete your account and all associated data permanently from our servers at any time through the app settings.
+* We are committed to protecting your data and do not share your personal information with third parties.
+* **Account Deletion:** To delete your account and all associated data permanently from our servers, please send a request to: **jaleesreader@gmail.com**. Our team will process your request promptly.
 
 ---
 
